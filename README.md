@@ -6,3 +6,10 @@ i study c language
 
 
 배열 공부
+
+
+++8.12++
+stuct.c and struct_project.c  add
+
+struct == theory
+struct_project = random cat box game
