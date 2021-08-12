@@ -18,3 +18,11 @@ stuct.c and struct_project.c  add
 
 struct == theory
 struct_project = random cat box game
+
+
+++8..13++
+
+파일 입출력 
+file.c , file_project.c
+file.c  -> i/o theory 
+file_project -> secret diary game
